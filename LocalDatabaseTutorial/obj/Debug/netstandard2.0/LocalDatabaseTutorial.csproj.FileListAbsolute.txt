@@ -1,0 +1,12 @@
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.deps.json
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\bin\Debug\netstandard2.0\LocalDatabaseTutorial.pdb
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.csprojAssemblyReference.cache
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfoInputs.cache
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.AssemblyInfo.cs
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.csproj.CoreCompileInputs.cache
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.dll
+C:\Users\USER\ws\septiempre\XamarinApp\LocalDatabaseTutorial\obj\Debug\netstandard2.0\LocalDatabaseTutorial.pdb
